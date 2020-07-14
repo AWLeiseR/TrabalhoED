@@ -1,0 +1,11 @@
+=========================TAREFAS=========================
+--10/05/2018--
+*Ler as aulas e o trabalho
+
+*Definir as principais estruturas e suas operações
+
+por exemplo : circulo,retangulo,quadra, hidrante, fila, geofile,qryfile,svgfile e etc...
+
+*Criar os arquivos .c e .h
+
+*Ver o que vai dar pra reutilizar
